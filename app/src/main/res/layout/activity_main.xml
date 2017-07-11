@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context="com.example.hp.vibgyor.MainActivity"
+    tools:layout_editor_absoluteY="81dp"
+    tools:layout_editor_absoluteX="81dp">
+
+    <TextView
+        android:id="@+id/textView"
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="1"
+        android:text="Violet"
+        android:layout_gravity="center"
+        android:background="@color/Violet"
+        android:fontFamily="serif-monospace"
+        android:textAlignment="center"/>
+
+
+    <TextView
+        android:id="@+id/textView1"
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="1"
+        android:text="Indigo"
+        android:layout_gravity="center"
+        android:background="@color/Indigo"
+        android:fontFamily="serif-monospace"
+        android:textAlignment="center"/>
+
+    <TextView
+        android:id="@+id/textView2"
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="1"
+        android:text="Blue"
+        android:layout_gravity="center"
+        android:fontFamily="serif-monospace"
+        android:background="@color/Blue"
+        android:textAlignment="center"/>
+
+    <TextView
+        android:id="@+id/textView3"
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="1"
+        android:text="Green"
+        android:layout_gravity="center"
+        android:background="@color/Green"
+        android:fontFamily="serif-monospace"
+        android:textAlignment="center"/>
+
+    <TextView
+        android:id="@+id/textView4"
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="1"
+        android:text="Yellow"
+        android:layout_gravity="center"
+        android:background="@color/Yellow"
+        android:fontFamily="serif-monospace"
+        android:textAlignment="center"/>
+
+
+    <TextView
+        android:id="@+id/textView5"
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="1"
+        android:text="Orange"
+        android:layout_gravity="center"
+        android:fontFamily="serif-monospace"
+        android:background="@color/Orange"
+
+        android:textAlignment="center"/>
+    <TextView
+        android:id="@+id/textView6"
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="1"
+        android:text="Red"
+        android:layout_gravity="center"
+        android:fontFamily="serif-monospace"
+        android:background="@color/Red"
+
+        android:textAlignment="center"/>
+
+
+
+
+</LinearLayout>
